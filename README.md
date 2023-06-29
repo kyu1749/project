@@ -1,1 +1,2 @@
 # project
+A report that imports the necessary libraries and analyzes the given dataset to produce scatterplots. This report provides statistics and methodology for its analyses. Files include the dataset, reports and weekly meeting minutes, scatterplot images, and code files.
